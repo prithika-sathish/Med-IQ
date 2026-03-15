@@ -29,8 +29,7 @@ An AI-powered medical information app built with **Streamlit** and **LangChain +
 ![Patient Assistant tab](screencapture-localhost-8501-2026-03-15-23_51_31.png)
 
 ### Doctor Support — Alternative Drug Finder
-![Doctor Support tab](screencapure-localhost-8501-2026-03-15-23_54_00.png)
-
+![Doctor Support tab](screencapture-localhost-8501-2026-03-15-23_54_00.png)
 ---
 
 ## Stack
